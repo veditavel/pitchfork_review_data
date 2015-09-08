@@ -1,0 +1,1 @@
+Extracts the URL, artist, album, label, release year, reviewer, score and review publication date for each review available on Pitchfork's website.
